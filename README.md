@@ -2,8 +2,10 @@
 Grabs banner, hostname, and does an IP lookup 
 
 
-usage: Pass a domain name as an argument
+requirements: 
+            use "pip install requests" in terminal or command line interface
 
+usage: Pass a domain name as an argument
 
 example: python recon.py google.com 
 
